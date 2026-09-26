@@ -1,0 +1,168 @@
+/* For Home Website */
+header{
+    background-color: aqua;
+    margin: 0%;
+    text-align: center;
+    padding: 20px;
+    flex-wrap: wrap;
+}
+
+nav{
+    background-color: beige;
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+    padding: 1%;
+}
+
+div{
+    display: flex;
+}
+
+section{
+    background-color: antiquewhite;
+    flex: 4%;
+    padding: 2%;
+    margin: 0.50%;
+    border-radius: 10%;
+}
+
+aside{
+    background-color: aqua;
+    flex: 2%;
+    padding: 1%;
+    margin: 0.75%;
+    border-radius: 10%;
+}
+
+footer{
+    text-align: center; 
+    Background-color: lightgreen;  
+    padding: 20px; 
+    margin: 1%;
+}
+
+/* For My Personal Website */
+header{
+    background-color: aquamarine; 
+    margin: 0%; 
+    text-align: center; 
+    padding: 20px
+}
+
+
+/*For Grade Table*/
+
+.gradetable{
+    border: 5px;
+    justify-content: center;
+    width: 100%;
+}
+
+.links{
+    background-color: blanchedalmond;
+    display: flex; 
+    justify-content: center; 
+    gap: 150px; 
+    padding: 1%"
+}
+
+.report{
+    text-align: center;
+    background-color: lightskyblue;
+    padding: 45px;
+    margin: 0%;
+}
+
+.body{
+    background-color: aqua;
+}
+.category{
+    text-align: center;
+    background-color: lightskyblue;
+}
+
+.data{
+    text-align: center;
+}
+
+.grade{
+    background-color:lightgreen ;
+}
+
+/* For My Profile*/
+.profile{
+    margin: 0%; 
+    text-align:center; 
+    padding: 20px;
+}
+
+.link{
+    background-color: beige; 
+    display: flex; 
+    justify-content: center; 
+    gap: 150px; 
+    padding: 1%;
+}
+
+.aboutme{
+    display: flex;
+}
+
+.sec{
+    background-color:blanchedalmond; 
+    flex: 4; 
+    padding: 1%; 
+    margin: 0.75%;
+}
+
+.Hobbies{
+    background-color: aqua; 
+    flex: 2 ; 
+    padding: 1%; 
+    margin: 0.50%;
+}
+
+.footer{
+    text-align: center; 
+    Background-color: lightgreen;  
+    padding: 20px; 
+    margin: 0%;
+}
+
+/* For Registration form */
+.fillup{
+    background-color: aquamarine; 
+    margin: 0%; 
+    text-align:center; 
+    padding: 20px;
+}
+
+.connect{
+    background-color: beige; 
+    display: flex; 
+    justify-content: center; 
+    gap: 150px; 
+    padding: 1%;
+}
+
+.foot{
+    text-align: center; 
+    Background-color: lightgreen;  
+    padding: 20px; 
+    margin: 0%;
+}
+
+.student{
+    background-color: lightgray;
+    margin: 0%;
+}
+
+.sex{
+    background-color: lightskyblue;
+    margin: 05;
+}
+
+.programs{
+    background-color: lightgoldenrodyellow;
+}
